@@ -1,0 +1,13 @@
+# Django UI Requirements
+django>=4.2.0,<5.0.0
+djangorestframework>=3.14.0
+channels>=4.0.0
+channels-redis>=4.1.0
+django-cors-headers>=4.0.0
+whitenoise>=6.5.0
+
+# Chat Agent Dependencies
+requests>=2.31.0
+
+# Additional utilities
+python-dotenv>=1.0.0
